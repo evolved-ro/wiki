@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
+  </head>
+  <body>
+    <nav>
+      <ul>
+        {% for page in site.pages %}
+          {% if page.title %}
+            <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <main>
+      {{ content }}
+    </main>
+  </body>
+</html>
