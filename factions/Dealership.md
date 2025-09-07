@@ -23,10 +23,12 @@ Fiecare masina are un stock limitat, iar atunci cand acesta va fi reactualizat, 
 
 Fiecare masina personala dispune de un **trunk personal**, care poate fi vizualizat la cumpararea acesteia din **Dealership**.
 
->[!TIP] Capacitatea fiecarei masini relationata la trunk este definita de marimea acesteia. [DE EXEMPLU:
+>[!TIP] 
+> Capacitatea fiecarei masini relationata la trunk este definita de marimea acesteia. [DE EXEMPLU:
 UN **LANDSTALKER** VA AVEA O CAPACITATE MULT MAI MARE A PORTBAGAJULUI DECAT UN **INFERNUS**]
 
->[!WARNING] Atunci cand vindeti o masina, tot ceea ce detine aceasta in portbagaj va ramane in portbagajul acesteia, deci jucatorul caruia i-ati vandut masina beneficiaza de toate obiectele lasate de dvs. in acesta.
+>[!WARNING] 
+> Atunci cand vindeti o masina, tot ceea ce detine aceasta in portbagaj va ramane in portbagajul acesteia, deci jucatorul caruia i-ati vandut masina beneficiaza de toate obiectele lasate de dvs. in acesta.
 
 Informatii despre carburantul masinilor in functie de motorizarea acestora:
 
