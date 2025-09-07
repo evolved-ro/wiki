@@ -37,6 +37,6 @@ Dacă un membru al unei facțiuni te-a deranjat sau a încălcat regulamentul, p
 
 [//]: # (de adaugat gif)
 
-Totodata daca un jucător dorește sa părăsească facțiunea, acesta va fi nevoit să facă o cerere de demisie pe [UCP](url) unde va trebui sa specifice motivul demisiei. **Dacă jucătorul are mai puțin de 7 zile in facțiune va fi demis cu FP, în caz contrar, nu va primi FP.**
+Totodata daca un jucător dorește sa părăsească facțiunea, acesta va fi nevoit să faca o cerere de demisie pe [UCP](url) unde va trebui sa specifice motivul demisiei. **Dacă jucătorul are mai puțin de 7 zile in facțiune va fi demis cu FP, în caz contrar, nu va primi FP.**
 
 [//]: # (de adaugat gif)
