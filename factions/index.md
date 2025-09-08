@@ -8,12 +8,19 @@ Facțiunile disponibile pe server-ul nostru sunt urmatoarele:
 
 | Factiune | Cerințe minime |  Nr. locuri disponibile |
 | :-----------: | :-----------: | :-----------: |
-| Police Departament |  level 10 și 50 de ore | 24 |
-| Emergency Services Departament | level 10 și 50 de ore |  24 |
-| School Instructors | level 10 și 50 de ore | 24 |
-| News Reporters | level 10 și 50 de ore | 24 |
-| Mafie 1 | level 10 și 50 de ore | 24 |
-| Mafie 2 | level 10 și 50 de ore | 24 |
+| Los Santos Police Department |  level 10 și 50 de ore | 50 |
+| Federal Bureau of Investigations | level 10 și 50 de ore |  50 |
+| National Guard | level 10 și 50 de ore |  50 |
+| Emergency Services Department | level 10 și 50 de ore |  50 |
+| School Instructors | level 10 și 50 de ore | 50 |
+| News Reporters | level 10 și 50 de ore | 50 |
+| Mechanics | level 10 și 50 de ore | 50 |
+| Grove Street | level 7 și 20 de ore  | 20 |
+| Ballas | level 7 și 20 de ore  | 20 |
+| Los Aztecas | level 7 și 20 de ore  | 20 |
+| The Russian Mafia | level 7 și 20 de ore  | 20 |
+| Red Dragon Triads | level 7 și 20 de ore  | 20 |
+| Crips Gang | level 7 și 20 de ore | 20 |
 ---
 [//]: # (de completat cu mafii plm si level)
 
