@@ -26,4 +26,22 @@ Cand te afli in fata unei ghene de gunoi, poti folosi comanda **/searchtrash** s
 
 Au fost amplasate centre de reciclare ca in viata reala, langa magazine, in principiu langa 24/7.
 
-La aceste centre de reciclare puteti duce sticlele din inventar si sa primiti o suma de bani in schimbul acestora. 
+Locatiile pot fi gasite in GPS:
+
+<details>
+  <summary> Locatii GPS  </summary>
+<img src="https://i.imgur.com/NcwYjyX.png" width="60%"/>
+</details>
+
+
+
+La aceste centre de reciclare puteti duce sticlele din inventar si sa primiti o suma de bani in schimbul acestora.
+
+<details>
+  <summary> Centru de reciclare  </summary>
+<img src="https://i.imgur.com/Gi9XSxg.png" width="60%"/>
+</details>
+
+>[!TIP]
+> - Pentru a maxima profitul, este recomandat ca acest side activity sa fie realizat in timpul in care lucrati si la alt job. De exemplu: In timpul unei curse de la **Trucker**, puteti opri pentru a da search unui **Garbage Bin**.
+
