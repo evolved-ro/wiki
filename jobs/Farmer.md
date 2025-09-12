@@ -4,9 +4,18 @@
 Pe server a fost implementat job-ul de Farmer.
 Acesta este alcatuit din **4 task-uri diferite**.
 
-Fiecare task va avea sansa de a oferi jucatorului un tip de **seminte** la finalizarea acestuia, ce vor putea fi folosite pentru sistemul de droguri de pe server. 
+Fiecare task va avea sansa de a oferi jucatorului un tip de **seminte** la finalizarea acestuia, ce vor putea fi folosite pentru sistemul de droguri de pe server.
+
+Mai multe detalii despre job-ul pasiv de la Farmer care ajuta la fabricarea drogurilor: [PASSIVE JOB](url)
+
+Mai multe detalii despre sistemul de droguri de pe server: [DRUGS SYSTEM](url)
 
 Pentru acest job a fost implementat si un **GUI** interactiv ce ofera informatii legate de cum trebuie sa se execute fiecare task in parte pentru a putea fi completat cu succes.
+
+<details>
+  <summary> Interfata GUI Farmer </summary>
+<img src="https://i.imgur.com/XSfEFRC.png" width="60%"/>
+</details>
 
 ## Feed the animals
 
