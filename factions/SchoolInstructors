@@ -5,7 +5,7 @@
 ---
 ## Comenzile factiunii
 
-Comenzile factiunii School Instructors sunt urmatoarele:
+Comenzile factiunii **School Instructors** sunt urmatoarele:
 `/startexam`
 `/givelicence (numarul de ore)`
 `/stopexam`
