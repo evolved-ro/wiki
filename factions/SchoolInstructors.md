@@ -20,9 +20,16 @@ Pe server sunt valabile 5 tipuri de licente:
 - Boat Licence
 
 Locatiile pentru sustinerea licentei se pot gasii in comanda `/gps`
+
 <details>
-  <summary> /gps -> Other </summary>
-<img src="https://i.imgur.com/FVkAA2c.jpeg" width="60%"/>
+  <summary> /gps -> Other si click pe Exam Locations</summary>
+<img src="https://i.imgur.com/pEzVeCA.jpeg" width="60%"/>
 </details>
 
+Dupa care vor fi vizibile toate zonele de examinare pentru a o alege pe cea dorita
+
+<details>
+  <summary> Poza cu locatiile din /gps </summary>
+<img src="https://i.imgur.com/8i5ZeCb.jpeg" width="60%"/>
+</details>
 
