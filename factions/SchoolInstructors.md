@@ -22,7 +22,7 @@ Pe server sunt valabile 5 tipuri de licente:
 Locatiile pentru sustinerea licentei se pot gasii in comanda `/gps`
 <details>
   <summary> /gps -> Other </summary>
-<img src="https://imgur.com/a/FVkAA2c" width="60%"/>
+<img src="https://i.imgur.com/FVkAA2c.jpeg" width="60%"/>
 </details>
 
 
