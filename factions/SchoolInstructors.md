@@ -87,3 +87,8 @@ Prima oara si instructorul si playerul trebuie sa se afle in zona de licenta pen
   <summary> In timp real se actualizeaza cu checkpoint-urile completate </summary>
 <img src="https://i.imgur.com/HO1QSkG.jpeg" width="60%"/>
 </details>
+
+
+## Informatii referitoare la licenta de driving
+
+TBD Cand o functiona
