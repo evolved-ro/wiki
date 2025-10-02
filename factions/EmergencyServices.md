@@ -12,11 +12,13 @@
 
 ## Vehiculele facțiunii:
 În prezent, facțiunea dispune de următoarele vehicule:
-Ambulance -> 3
-Firetruck -> 3
-Rancher -> 2
-Maverick -> 1
+- Ambulance -> 3
+- Firetruck -> 3
+- Rancher -> 2
+- Maverick -> 1
 
+
+## Sanctiuniile facțiunii:
 Este interzisă folosirea lor în scop personal ( Faction Warn).
 Când luați un vehicul al facțiunii , sunteți obligați să anunțați pe chat-ul facțiunii [/r Ambulance / Firetruck / Rancher / Maverick la mine] (Avertisment Verbal).
 Sunteți obligați să distrugeți mașina după ce v-ați terminat treaba cu ea / să întrebați pe /r dacă se poate acorda un fvr ( Exemplu : rank 6+ on pentru fvr ?) (Avertisment Verbal).
