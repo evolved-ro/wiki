@@ -231,7 +231,7 @@ Acesta poate fi gasit in orasul LV langa business-ul de tip CNN cu id-ul 25
 <img src="https://i.imgur.com/oEWxjls.jpeg" width="50%"/>
 </details>
 
-## Vehiculul de tip Tampa (122)
+## Vehiculul de tip Tampa
 
 Acesta poate fi gasit in orasul LV in fata casei 73
 <details>
@@ -239,3 +239,34 @@ Acesta poate fi gasit in orasul LV in fata casei 73
 <img src="https://i.imgur.com/LaP65tg.jpeg" width="70%"/>
 </details>
 
+## Vehiculul de tip Yosemite
+
+Acesta poate fi gasit in spatele piramidei din orasul LV
+
+<details>
+  <summary>Locatie in spatele piramidei din orasul LV</summary>
+<img src="https://i.imgur.com/9eAu2cC.jpeg" width="40%"/>
+<img src="https://i.imgur.com/IY3PQlR.jpeg" width="40%"/>
+</details>
+
+
+## Vehiculul de tip Faggio
+
+Acesta poate fi gasit in spatele piramidei din orasul LV
+
+<details>
+  <summary>Locatie in spatele piramidei din orasul LV</summary>
+<img src="https://i.imgur.com/BwjXpm2.jpeg" width="50%"/>
+<img src="https://i.imgur.com/PeUuDI9.jpeg" width="50%"/>
+</details>
+
+
+## Vehiculul de tip Tahoma
+
+Acesta poate fi gasit in orasul LV pe partea dreapta
+
+<details>
+  <summary>Locatie in spatele piramidei din orasul LV</summary>
+<img src="https://i.imgur.com/BwjXpm2.jpeg" width="50%"/>
+<img src="https://i.imgur.com/PeUuDI9.jpeg" width="50%"/>
+</details>
