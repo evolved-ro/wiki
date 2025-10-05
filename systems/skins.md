@@ -13,7 +13,7 @@ Exista **3 categorii** de skin-uri valabile pe serverul **Evolved**, dupa cum ur
 
 - **Starter Skin-urile** sunt acele skin-uri pe care orice jucator le are in "garderoba" sa la inceputul acestuia pe server, fara a fi nevoit sa le achizitioneze. Acestea pot fi selectate din **Clothing Store**.
 
-De altfel, la inregistrarea contului pe server, un skin random dintre acestea va fi atribuit fiecarui jucator.
+De altfel, la inregistrarea contului pe server, un **skin random** dintre acestea va fi atribuit fiecarui jucator.
 
 <details>
   <summary> Starter Skins ID  </summary>
@@ -36,14 +36,17 @@ ID: 0, 86, 90, 102, 104,  107, 108, 110, 116, 119, 126, 149, 195, 211, 223, 217,
 
 </details>
 
->[!WARNING] Exista anumite skin-uri care nu pot fi cumparate / craftate, deoarece sunt skin-uri de factiune sau sunt invalide in-game.
+>[!WARNING]
+> Exista anumite skin-uri care nu pot fi cumparate / craftate, deoarece sunt skin-uri de factiune sau sunt invalide in-game.
+
+
 > <details>
 >  <summary> Unavailable Skins ID  </summary>
-> ID: 71, 74, 86, 163, 164, 165, 166, 253, 255, 265, 266, 267, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 300, 301, 302, 303, 304, 305, 306, 307, 308, 310, 311
+> ID: 71, 74, 86, 163, 164, 165, 166, 253, 255, 265, 266, 267, 274, 275, 276,  277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 300, 301, 302, 303, 304, 305, 306, 307, 308, 310, 311
 
  Skin-urile **nu ofera niciun beneficiu**, sunt strict estetice. Nu dorim sa oferim o concurenta neloiala jucatorilor care aleg sa nu doneze pe server in detrimentul jucatorilor care o fac.
 
  >[!TIP]
- Pentru a vizualiza toate skin-urile din joc, apasa [aici](https://open.mp/ro/docs/scripting/resources/skins)
+ > Pentru a vizualiza toate skin-urile din joc, apasa [aici](https://open.mp/ro/docs/scripting/resources/skins)
 
 
