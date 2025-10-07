@@ -51,7 +51,8 @@ Pentru a accesa trunk-ul unei masini este de ajuns sa pozitionezi in spatele mas
 
 Pentru a selecta itemul trebuie sa apesi un **SINGUR CLICK STANGA** pe obiectul dorit pentru a completa actiunea.
 
-> [!WARNING] Poti selecta maxim 12 obiecte in acelasi timp.
+> [!WARNING]
+> Poti selecta maxim 12 obiecte in acelasi timp.
 
 - Cum mut itemele in portbagajul masinii?
 
@@ -62,7 +63,8 @@ Dupa ce ai selectat itemul, trebuie sa apesi pe sageata dreapta **>** de pe **mi
   <img src="https://raw.githubusercontent.com/evolved-ro/wiki/main/assets/move.gif" width="100%"/>
 </details>
 
-> [!TIP] Pentru a muta itemele in inventar inapoi din portbagajul masinii, trebuie sa repetati aceeasi actiune, numai ca de aceasta data veti selecta itemele din portbagajul masinii si veti apasa pe sageata stanga **<**.
+> [!TIP]
+> Pentru a muta itemele in inventar inapoi din portbagajul masinii, trebuie sa repetati aceeasi actiune, numai ca de aceasta data veti selecta itemele din portbagajul masinii si veti apasa pe sageata stanga **<**.
 
 <details>
   <summary>Move Back</summary>
