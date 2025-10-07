@@ -20,12 +20,12 @@ Sa luam pe rand fiecare categorie.
 Pentru a echipa sau a dezechipa un item de inventar, singurul lucru pe care trebuie sa il faci este sa apesi **DUBLU-CLICK STANGA** pe iconita obiectului respectiv si, daca dispune de functionalitatea de **EQUIP**, acesta se va comporta ca atare.
 
 <details>
-  <summary> Equip </summary>
-<img src="https://files.catbox.moe/598fyf.gif" width="100%"/>
+  <summary>Equip</summary>
+  <img src="https://raw.githubusercontent.com/evolved-ro/wiki/main/assets/equip.gif" width="100%"/>
 </details>
 
 
 <details>
-  <summary> Unequip </summary>
-<img src="https://files.catbox.moe/zmet8g.gif" width="100%"/>
+  <summary>Unequip</summary>
+  <img src="https://raw.githubusercontent.com/evolved-ro/wiki/main/assets/unequip.gif" width="100%"/>
 </details>
