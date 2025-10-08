@@ -94,7 +94,7 @@ Pentru a sterge un item din inventar, trebuie mai intai sa **SELECTATI** itemul 
 
 <details>
   <summary>Drop Items</summary>
-  <img src="https://raw.githubusercontent.com/evolved-ro/wiki/main/assets/" width="100%"/>
+  <img src="https://raw.githubusercontent.com/evolved-ro/wiki/main/assets/drop.gif" width="100%"/>
 </details>
 
 TBD 
