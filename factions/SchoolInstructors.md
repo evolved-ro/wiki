@@ -91,4 +91,16 @@ Prima oara si instructorul si playerul trebuie sa se afle in zona de licenta pen
 
 ## Informatii referitoare la licenta de driving
 
-TBD Cand o functiona
+Instructorul trebuie sa dea `/startexam` in parcarea factiunii School Instructors
+
+
+<details>
+  <summary>Locatie /startexam pentru Driving </summary>
+<img src="https://i.imgur.com/3fUCHB3.jpeg" width="60%"/>
+</details>
+
+
+Odata pornit examenul, instructorul va indruma playerul catre cel mai apropiat vehicul disponibil si vor porni examenul.
+
+Odata urcati in vehicul instructorul trebuie sa indrume playerul ce traseu sa ia pentru a sustine examenul.
+
